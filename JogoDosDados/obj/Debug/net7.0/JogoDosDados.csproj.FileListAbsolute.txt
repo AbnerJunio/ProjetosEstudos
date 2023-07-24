@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\bin\Debug\net7.0\JogoDosDados.exe
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\bin\Debug\net7.0\JogoDosDados.deps.json
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\bin\Debug\net7.0\JogoDosDados.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\bin\Debug\net7.0\JogoDosDados.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\bin\Debug\net7.0\JogoDosDados.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\refint\JogoDosDados.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\JogoDosDados.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\JogoDosDados\obj\Debug\net7.0\ref\JogoDosDados.dll

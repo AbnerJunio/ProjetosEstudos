@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wl0ijc4joYgwuMtMiNY9Tl7+CvqSLLr6dqIig2iHzY+3FF4hffIW85c8mR41ev8U21xCk9AnVE107g45MQ0JfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abner PC\\Desktop\\C#\\GitHub\\JogoDosDados\\JogoDosDados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

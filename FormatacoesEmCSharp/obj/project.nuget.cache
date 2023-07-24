@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7uqvvfpt1XpUg65TDJ5y+OPfAdvfp47JC9vBd0odXW3ks7EfeLBKwP9ygCEWQ/dzypBN8RFuJRcJn0FlQlRGkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abner PC\\Desktop\\C#\\GitHub\\FormatacoesEmCSharp\\FormatacoesEmCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

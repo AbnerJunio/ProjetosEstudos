@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\bin\Debug\net7.0\OperacoesBasicasCSharp.exe
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\bin\Debug\net7.0\OperacoesBasicasCSharp.deps.json
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\bin\Debug\net7.0\OperacoesBasicasCSharp.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\bin\Debug\net7.0\OperacoesBasicasCSharp.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\bin\Debug\net7.0\OperacoesBasicasCSharp.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\refint\OperacoesBasicasCSharp.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\OperacoesBasicasCSharp.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\OperacoesBasicasCSharp\obj\Debug\net7.0\ref\OperacoesBasicasCSharp.dll

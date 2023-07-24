@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\bin\Debug\net7.0\MeuPrimeiroProjeto.exe
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\bin\Debug\net7.0\MeuPrimeiroProjeto.deps.json
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\bin\Debug\net7.0\MeuPrimeiroProjeto.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\bin\Debug\net7.0\MeuPrimeiroProjeto.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\bin\Debug\net7.0\MeuPrimeiroProjeto.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\refint\MeuPrimeiroProjeto.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\MeuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\MeuPrimeiroProjeto\obj\Debug\net7.0\ref\MeuPrimeiroProjeto.dll

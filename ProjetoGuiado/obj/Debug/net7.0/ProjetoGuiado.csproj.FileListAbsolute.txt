@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\bin\Debug\net7.0\ProjetoGuiado.exe
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\bin\Debug\net7.0\ProjetoGuiado.deps.json
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\bin\Debug\net7.0\ProjetoGuiado.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\bin\Debug\net7.0\ProjetoGuiado.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\bin\Debug\net7.0\ProjetoGuiado.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\refint\ProjetoGuiado.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ProjetoGuiado.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\ProjetoGuiado\obj\Debug\net7.0\ref\ProjetoGuiado.dll

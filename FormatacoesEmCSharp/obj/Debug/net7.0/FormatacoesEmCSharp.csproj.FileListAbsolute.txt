@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\bin\Debug\net7.0\FormatacoesEmCSharp.exe
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\bin\Debug\net7.0\FormatacoesEmCSharp.deps.json
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\bin\Debug\net7.0\FormatacoesEmCSharp.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\bin\Debug\net7.0\FormatacoesEmCSharp.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\bin\Debug\net7.0\FormatacoesEmCSharp.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\refint\FormatacoesEmCSharp.dll
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.pdb
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\FormatacoesEmCSharp.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\GitHub\FormatacoesEmCSharp\obj\Debug\net7.0\ref\FormatacoesEmCSharp.dll

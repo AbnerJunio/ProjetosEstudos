@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FormatacoesEmCSharp/1.0.0": {
+        "runtime": {
+          "FormatacoesEmCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormatacoesEmCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
