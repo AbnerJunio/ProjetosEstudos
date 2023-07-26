@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\bin\Debug\net7.0\InstrucoesIf-Else.exe
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\bin\Debug\net7.0\InstrucoesIf-Else.deps.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\bin\Debug\net7.0\InstrucoesIf-Else.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\bin\Debug\net7.0\InstrucoesIf-Else.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\bin\Debug\net7.0\InstrucoesIf-Else.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\refint\InstrucoesIf-Else.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\InstrucoesIf-Else.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\InstrucoesIf-Else\obj\Debug\net7.0\ref\InstrucoesIf-Else.dll

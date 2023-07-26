@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\bin\Debug\net7.0\Metrizes-Forach.exe
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\bin\Debug\net7.0\Metrizes-Forach.deps.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\bin\Debug\net7.0\Metrizes-Forach.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\bin\Debug\net7.0\Metrizes-Forach.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\bin\Debug\net7.0\Metrizes-Forach.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\refint\Metrizes-Forach.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\Metrizes-Forach.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Metrizes-Forach\obj\Debug\net7.0\ref\Metrizes-Forach.dll

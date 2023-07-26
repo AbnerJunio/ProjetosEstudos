@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\bin\Debug\net7.0\Convencoes-Variaveis.exe
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\bin\Debug\net7.0\Convencoes-Variaveis.deps.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\bin\Debug\net7.0\Convencoes-Variaveis.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\bin\Debug\net7.0\Convencoes-Variaveis.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\bin\Debug\net7.0\Convencoes-Variaveis.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\refint\Convencoes-Variaveis.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\Convencoes-Variaveis.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Convencoes-Variaveis\obj\Debug\net7.0\ref\Convencoes-Variaveis.dll
