@@ -10,7 +10,7 @@ class Program
         Console.WriteLine("Os dias são gerados aleatórios");
         Console.WriteLine("Pressione alguma tecla para continuar\t");
         Console.ReadKey();
-        Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 
         Random aleatorio = new Random();
         Random aleatorio2 = new Random();

@@ -9,7 +9,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine("Pressione alguma tecla para continuar\t");
         Console.ReadKey();
-        Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n");
+        Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 
 
         //Mude a frase e veja o que aconteçe...
@@ -53,7 +53,7 @@ class Program
         ;
 
         // Example 2:
-        string firstWord = "Hello"; string lastWord = "Example 2"; Console.WriteLine(firstWord + " " + lastWord + "!");
+        string firstWord = "Hello"; string lastWord = "Example 2"; Console.WriteLine(firstWord + " " + lastWord + "!\n");
 
 
     }
