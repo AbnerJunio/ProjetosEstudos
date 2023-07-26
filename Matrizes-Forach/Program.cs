@@ -9,7 +9,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine("Pressione alguma tecla para continuar");
         Console.ReadKey();
-        Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+        Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n");
 
         string[] fraudulentOrderIDs = new string[3];
 
