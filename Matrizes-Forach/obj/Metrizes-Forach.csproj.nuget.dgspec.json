@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Metrizes-Forach\\Metrizes-Forach.csproj": {}
+    "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Matrizes-Forach\\Metrizes-Forach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Metrizes-Forach\\Metrizes-Forach.csproj": {
+    "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Matrizes-Forach\\Metrizes-Forach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Metrizes-Forach\\Metrizes-Forach.csproj",
+        "projectUniqueName": "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Matrizes-Forach\\Metrizes-Forach.csproj",
         "projectName": "Metrizes-Forach",
-        "projectPath": "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Metrizes-Forach\\Metrizes-Forach.csproj",
+        "projectPath": "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Matrizes-Forach\\Metrizes-Forach.csproj",
         "packagesPath": "C:\\Users\\Abner PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Metrizes-Forach\\obj\\",
+        "outputPath": "C:\\Users\\Abner PC\\Desktop\\C#\\Projeto-Estudos-CSharp\\Matrizes-Forach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abner PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
