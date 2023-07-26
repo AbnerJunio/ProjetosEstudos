@@ -1,4 +1,4 @@
-﻿namespace Matrizes_Forach;
+﻿namespace Metrizes_Forach;
 
 class Program
 {
