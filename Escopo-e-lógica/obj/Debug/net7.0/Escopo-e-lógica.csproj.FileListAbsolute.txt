@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\bin\Debug\net7.0\Escopo-e-lógica.exe
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\bin\Debug\net7.0\Escopo-e-lógica.deps.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\bin\Debug\net7.0\Escopo-e-lógica.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\bin\Debug\net7.0\Escopo-e-lógica.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\bin\Debug\net7.0\Escopo-e-lógica.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\refint\Escopo-e-lógica.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\Escopo-e-lógica.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Escopo-e-lógica\obj\Debug\net7.0\ref\Escopo-e-lógica.dll
