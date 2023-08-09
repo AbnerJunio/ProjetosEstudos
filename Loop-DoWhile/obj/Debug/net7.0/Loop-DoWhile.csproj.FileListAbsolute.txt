@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\bin\Debug\net7.0\Loop-DoWhile.exe
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\bin\Debug\net7.0\Loop-DoWhile.deps.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\bin\Debug\net7.0\Loop-DoWhile.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\bin\Debug\net7.0\Loop-DoWhile.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\bin\Debug\net7.0\Loop-DoWhile.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\refint\Loop-DoWhile.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\Loop-DoWhile.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Loop-DoWhile\obj\Debug\net7.0\ref\Loop-DoWhile.dll

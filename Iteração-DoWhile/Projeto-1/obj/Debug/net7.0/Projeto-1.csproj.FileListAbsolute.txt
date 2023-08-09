@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\bin\Debug\net7.0\Projeto-1.exe
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\bin\Debug\net7.0\Projeto-1.deps.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\bin\Debug\net7.0\Projeto-1.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\bin\Debug\net7.0\Projeto-1.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\bin\Debug\net7.0\Projeto-1.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\refint\Projeto-1.dll
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.pdb
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\Projeto-1.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\Projeto-Estudos-CSharp\Iteração-DoWhile\Projeto-1\obj\Debug\net7.0\ref\Projeto-1.dll
